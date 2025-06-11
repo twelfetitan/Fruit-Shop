@@ -1,0 +1,16 @@
+#info-carret {
+    width: 200px;
+    background: #f0f0f0;
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin-left: 20px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+#info-carret h3 {
+    color: #007bff;
+    text-align: center;
+}
+#info-carret p {
+    margin: 5px 0;
+}
